@@ -1,2 +1,2 @@
 echo "auto compile"
-echo "auto 部署"
+echo "123456"
